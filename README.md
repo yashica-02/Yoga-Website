@@ -17,4 +17,4 @@ A simple, responsive static website created with HTML and CSS. This project serv
 ## Live Preview
 
 You can view the live version of the site here:  
-https://yashica-02.github.io/Yoga-Website/
+https://yashica-02.github.io/Yoga-Website/homepage.html
